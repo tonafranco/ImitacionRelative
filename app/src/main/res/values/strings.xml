@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Imitacion Relative</string>
+    <string name="titulo1">Domo</string>
+    <string name="titulo2">DOX.</string>
+    <string name="correo">e-mail</string>
+    <string name="etCorreo">usuario@prueba.com</string>
+    <string name="password">contraseña</string>
+    <string name="etPassword">tu contraseña</string>
+    <string name="botonEntrar">Entrar</string>
+    <string name="botonCuenta">cuenta</string>
+    <string name="botonforget">lo olvidé</string>
+</resources>
